@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **lakshitupreti@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1NhpzMNmam3e9tiyiKWOx_ge-Mmx5o_ls/view?usp=sharing](https://drive.google.com/file/d/1MaV_wSTmawH3trybSqTqY4yWpxhVWZYk/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MaV_wSTmawH3trybSqTqY4yWpxhVWZYk/view?usp=sharing)
 
 
 
