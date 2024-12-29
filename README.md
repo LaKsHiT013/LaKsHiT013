@@ -28,5 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamkashyap1601&" alt="Shubhamkashyap1601" /></p>
 
-[![An image of @shubhamkashyap1601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamkashyap1601)](https://holopin.io/@shubhamkashyap1601)
-
