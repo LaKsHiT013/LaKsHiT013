@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamkashyap1601" alt="Shubhamkashyap1601" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**, **AI** and **GenerativeAI**
+- 🌱 I’m currently learning **Machine Learning**, **AI**, **GenerativeAI** and **Python Development**
 
 - 📫 How to reach me **lakshitupreti@gmail.com**
 
